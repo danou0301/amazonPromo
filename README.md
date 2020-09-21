@@ -1,2 +1,2 @@
 # Amazon Promo
-Find the best best promo of the article you search.
+Find the best amazon promotion of the article you search.
